@@ -83,4 +83,4 @@ To summarize, this task helped us build a functional recommendation engine using
 
 *OUTPUT*:
 
-
+<img width="1920" height="979" alt="Image" src="https://github.com/user-attachments/assets/f501f081-4e9c-4b67-93b2-ca4e9f1f5d9d" />
